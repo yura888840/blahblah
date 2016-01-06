@@ -1,16 +1,7 @@
 {
   "require" : {
     "swiftmailer/swiftmailer" :  "5.0.*",
-    "tedivm/fetch": "0.6.*",
-    "sokil/php-mongo-migrator": "dev-master",
     "google/apiclient": "1.0.*@beta",
-    "cboden/ratchet": "^0.3.3",
-    "symfony/finder": "^2.7",
-    "react/react": "^0.4.2",
     "league/oauth2-facebook": "~1.0"
-  },
-
-  "require-dev": {
-    "snowair/phalcon-debugbar": "~1.1"
   }
 }
