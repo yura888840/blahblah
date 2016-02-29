@@ -1,2 +1,1 @@
-
-This is volt template
+Admin index

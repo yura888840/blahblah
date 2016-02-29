@@ -12,8 +12,8 @@ $configCLI = new Phalcon\Config(array(
             array(
                 'host' => 'imap.gmail.com',
                 'port' => 993,
-                'username' => 'testcrmcrmtest',
-                'password' => 'nbanbanbanba'
+                'username' => '',
+                'password' => ''
             ),
         ),
 

@@ -10,6 +10,8 @@ define('APPLICATION_PATH', __DIR__ . '/../app');
 error_reporting(E_ALL);
 ini_set('display_errors', '1');
 
-//require_once APPLICATION_PATH . '/Bootstrap.php';
+require_once APPLICATION_PATH . '/bootstrap.php';
 
-include __DIR__ . "/public/bootstrap.php";
+$app = new Bootstrap();
+
+$app->run();

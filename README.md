@@ -14,3 +14,7 @@ Core MaNetwork has a few system requirements:
 * PHP Mongo extension
 * PHP Imap extension 
 
+
+Common principles:
+
+Core loads module - Main. This is mandatory
